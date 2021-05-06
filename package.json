@@ -14,7 +14,7 @@
     "clsx": "^1.1.1",
     "cors": "^2.8.5",
     "crossfilter2": "^1.5.2",
-    "highcharts": "^8.0.4",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "react": "^16.13.0",
     "react-csv": "^2.0.3",
